@@ -1,5 +1,19 @@
 #!/usr/bin/env node
+const pkgJSON = require('./package.json')
+const welcome = require('cli-welcome')
 
+welcome({
+  title: pkgJSON.name,
+  version: pkgJSON.version,
+  description: pkgJSON.description,
+  tagLine: `by Constant Coder`,
+  bgColor: `#8AFF80`,
+  color: `#0B0D0F`,
+  bold: true,
+  clear: true,
+})
+
+// Clears the console.
 console.log(`
 Constant Coder
 
