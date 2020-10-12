@@ -12,5 +12,13 @@
     "constant coder",
     "constant",
     "coder"
-  ]
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "constantcoder/constcoder",
+  "author": {
+    "name": "Constant Coder",
+    "email": "garrett@constantcoder.io",
+    "url": "https://twitter.com/coderconstant"
+  }
 }
