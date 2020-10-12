@@ -1,0 +1,7 @@
+{
+  "name": "constcoder",
+  "version": "1.0.0",
+  "bin": {
+    "coder": "index.js"
+  }
+}
