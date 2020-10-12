@@ -1,6 +1,6 @@
 {
   "name": "constcoder",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get to know Constant Coder via `npm coder`.",
   "bin": {
     "coder": "index.js"
